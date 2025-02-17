@@ -1,6 +1,7 @@
 title:Sundered Doctrine Wishlist
 
-// Unsworn - PvE Roll ()
+// Unsworn - Detonator Roll ()
+// Perks: Rewind Rounds, Stats for All; Detonator Beam
 dimwishlist:item=1303313141&perks=3250034553,2680121939,3418782618,4198902903
 dimwishlist:item=1303313141&perks=3250034553,2680121939,3418782618,222783511
 dimwishlist:item=1303313141&perks=3250034553,2680121939,1563455254,4198902903
@@ -12,6 +13,7 @@ dimwishlist:item=1303313141&perks=3250034553,2680121939,1409206216,222783511
 
 
 // Unworthy - PvE Roll ()
+// Perks: Firefly, Rewind Rounds; Rolling Storm, Paracausal Affinity
 //notes: Range MW
 dimwishlist:item=2226158470&perks=1840239774,1087426260,3824105627,3218042543
 dimwishlist:item=2226158470&perks=1840239774,1087426260,3824105627,2633604463
@@ -32,6 +34,7 @@ dimwishlist:item=2226158470&perks=1840239774,1087426260,1563455254,3299896859
 
 
 // Unloved - PvE Hatchling Roll ()
+// Perks: Hatchling; Paracausal Affinity, Tear
 //notes: Stability MW
 dimwishlist:item=2485881870&perks=1392496348,1087426260,831391274,3215448563
 dimwishlist:item=2485881870&perks=1392496348,1087426260,831391274,3299896859
@@ -44,6 +47,7 @@ dimwishlist:item=2485881870&perks=1392496348,1087426260,102912326,3244229373
 
 
 // Unloved - PvE Reload Roll ()
+// Perks: Rapid Hit; Paracausal Affinity, Tear
 //notes: Handling MW
 dimwishlist:item=2485881870&perks=1840239774,2420895100,247725512,960997401
 dimwishlist:item=2485881870&perks=1840239774,2420895100,247725512,3244229373
@@ -56,6 +60,7 @@ dimwishlist:item=2485881870&perks=1840239774,2420895100,2938480696,3299896859
 
 
 // Unvoiced - PvE Roll ()
+// Perks: Envious Arsenal, Redirection; Demoralize
 dimwishlist:item=3360937899&perks=3250034553,791862061,3201496230,1464081238
 dimwishlist:item=3360937899&perks=3250034553,791862061,3201496230,2813913866
 dimwishlist:item=3360937899&perks=3250034553,791862061,1545231802,1464081238
@@ -107,6 +112,7 @@ dimwishlist:item=3360937899&perks=1482024992,106909392,2817499044,2813913866
 
 
 // Unvoiced - DPS Roll ()
+// Perks: Redirection; Bait and Switch
 dimwishlist:item=3360937899&perks=3250034553,791862061,3201496230,3078487919
 dimwishlist:item=3360937899&perks=3250034553,791862061,3201496230,3744057135
 dimwishlist:item=3360937899&perks=3250034553,791862061,1545231802,3078487919
