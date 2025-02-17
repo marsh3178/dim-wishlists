@@ -1,1 +1,8 @@
 title:Episode Revenant Wishlist
+
+// Liturgy - PvE Roll ()
+// Perks: Slideways; Chill Clip
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+dimwishlist:item=2599338624&perks=2039302152,344235611
+dimwishlist:item=2599338624&perks=2396422520,2978966579
+dimwishlist:item=2599338624&perks=2396422520,344235611
