@@ -1,4 +1,5 @@
 title:Spire of the Watcher Wishlist
 
 // Liminal Vigil - PvE Roll ()
+// Perks: Headstone; Desperado
 dimwishlist:item=3138208275&perks=1482024992,3230963543,124408337,3047969693
