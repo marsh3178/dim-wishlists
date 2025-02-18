@@ -1,7 +1,7 @@
 title:World Drop Wishlist
 
 // Admetus-D - PvE Roll ()
-// Perks: Repulsor Brace; Demoralize
+// Perks: Repulsor Brace; Demoralize, Withering Gaze
 dimwishlist:item=3776430252&perks=776531651,1464081238
 dimwishlist:item=3776430252&perks=776531651,2813913866
 dimwishlist:item=3776430252&perks=776531651,1134488199
