@@ -1,0 +1,4 @@
+title:Universal Combos List
+
+//Subsistence + Killing Tally
+dimwishlist:item=-69420&perks=1820235745,557221067
