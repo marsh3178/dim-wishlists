@@ -1,0 +1,13 @@
+title:Exotic Wishlist
+
+// Ergo Sum - PvE Roll ()
+//notes: Arc: Arc Conductor, Wolfpack Rounds
+Solar: Sacred Flame, Wolfpack Rounds
+Void: Insectoid Robot Grenades, Wolfpack Rounds
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,2963428707
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,2963428707
+
+
+// Hawkmoon - PvP Roll ()
+// Perks: Eye of the Storm; Heavy Grip
+dimwishlist:item=3856705927&perks=3250034553,1431678320,699525795,1012699414
