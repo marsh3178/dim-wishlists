@@ -1,4 +1,5 @@
 title:Episode Heresy Wishlist
+description:Includes all 4 variants of the heretical arsenal.
 
 // Abyssal Edge - PvE Roll ()
 // Perks: Tireless Blade; Redirection
