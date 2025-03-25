@@ -1,7 +1,7 @@
 title:Exotic Wishlist
 
 // Ergo Sum - PvE Roll ()
-//notes: Arc: Arc Conductor, Wolfpack Rounds
+// Perks: Arc: Arc Conductor, Wolfpack Rounds
 Solar: Sacred Flame, Wolfpack Rounds
 Void: Insectoid Robot Grenades, Wolfpack Rounds
 dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,2963428707

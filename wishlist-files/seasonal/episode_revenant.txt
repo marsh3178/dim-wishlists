@@ -13,7 +13,7 @@ dimwishlist:item=2599338625&perks=981914802,3301904089,2817499044,3744057135
 
 
 // Chroma Rush - PvE Roll ()
-//notes: Subsistence; Rampage, Kinetic Tremors
+// Perks: Subsistence; Rampage, Kinetic Tremors
 dimwishlist:item=2598420927&perks=4090651448,3142289711,1820235745,3425386926
 dimwishlist:item=2598420927&perks=4090651448,3142289711,1820235745,288411554
 dimwishlist:item=2598420927&perks=4090651448,3142289711,1820235745,3891536761
@@ -137,7 +137,7 @@ dimwishlist:item=2823644677&perks=4090651448,3230963543,2617553311,1171887445
 
 
 // Gridskipper - PvE Roll ()
-//notes: Repulsor Brace; Destabilizing Rounds
+// Perks: Repulsor Brace; Destabilizing Rounds
 dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,2048641572
 dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,1926441324
 dimwishlist:item=3433930495&perks=839105230,1885400500,2541826827,2048641572
@@ -213,7 +213,7 @@ dimwishlist:item=4224667951&perks=3798852852,3796465595,2308090567,2282937672
 
 
 // Ignition Code - PvE Roll ()
-//notes: Ambitious Assassin, Lead from Gold; Vorpal Weapon, Reverberation
+// Perks: Ambitious Assassin, Lead from Gold; Vorpal Weapon, Reverberation
 dimwishlist:item=2761869150&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=2761869150&perks=3525010810,3301904089,2010801679,3418165135
 dimwishlist:item=2761869150&perks=3525010810,3301904089,2010801679,563069569
@@ -249,7 +249,7 @@ dimwishlist:item=2761869150&perks=3525010810,3032599245,3442762221,2167611941
 
 
 // Ignition Code - PvP Roll ()
-//notes: Slideshot; Vorpal Weapon
+// Perks: Slideshot; Vorpal Weapon
 dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,1546637391
 dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,3418165135
 dimwishlist:item=2761869150&perks=3525010810,3301904089,191144788,1546637391
@@ -377,7 +377,7 @@ dimwishlist:item=2913577176&perks=4090651448,791862061,906981559,2748801589
 
 
 // Sojourner's Tale - PvE Roll ()
-//notes: Heal Clip, Discord; Incandescent, Harmony
+// Perks: Heal Clip, Discord; Incandescent, Harmony
 dimwishlist:item=2130875369&perks=1482024992,791862061,3017780555,4293542123
 dimwishlist:item=2130875369&perks=1482024992,791862061,3017780555,2675184851
 dimwishlist:item=2130875369&perks=1482024992,791862061,3017780555,438098033
