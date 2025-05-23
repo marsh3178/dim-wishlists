@@ -509,7 +509,7 @@ dimwishlist:item=2063217087&perks=1196733167,2154191829,3523746922,2675184851
 
 
 // The Slammer - PvE Roll ()
-//notes: Eager Edge, Chain Reaction; Cold Steel
+// Perks: Eager Edge, Chain Reaction; Cold Steel
 dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3650930298
 dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,405677814
 dimwishlist:item=2889501828&perks=3666208348,269888150,1618208178,3650930298
@@ -521,7 +521,7 @@ dimwishlist:item=2889501828&perks=3666208348,269888150,598607952,405677814
 
 
 // The Slammer (Adept) - PvE Roll ()
-//notes: Eager Edge, Chain Reaction; Cold Steel
+// Perks: Eager Edge, Chain Reaction; Cold Steel
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,405677814
 dimwishlist:item=1354727549&perks=3666208348,269888150,1618208178,3650930298
