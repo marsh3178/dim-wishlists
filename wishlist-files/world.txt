@@ -79,7 +79,7 @@ dimwishlist:item=891996636&perks=4090651448,689005463,906981559,2633604463
 
 
 // Qua Furor V - PvE Roll ()
-// Perks: Feeding Frenzy; One for All
+// Perks: Feeding Frenzy; One for All, Elemental Honing
 dimwishlist:item=751880654&perks=3250034553,1885400500,2779035018,4049631843
 dimwishlist:item=751880654&perks=3250034553,1885400500,2779035018,859780267
 dimwishlist:item=751880654&perks=3250034553,1885400500,2779035018,1089671869
