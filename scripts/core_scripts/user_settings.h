@@ -17,6 +17,7 @@ class user_settings {
         user_settings(std::string username);
         ~user_settings();
 
+        std::string getUsername();
         bool getPrintState();
         void togglePrintState();
 

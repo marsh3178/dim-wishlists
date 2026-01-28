@@ -52,6 +52,12 @@ user_settings::~user_settings() {
 
 }
 
+std::string user_settings::getUsername() {
+
+    return(username);
+
+}
+
 bool user_settings::getPrintState() {
 
     return(printBool);
