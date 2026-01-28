@@ -48,6 +48,45 @@ user_settings::user_settings() {
     }
 }
 
+user_settings::user_settings(std::string activeUsername) {
+
+    username = activeUsername;
+
+    std::fstream fJson(filepath);
+
+    std::stringstream buffer;
+    buffer << fJson.rdbuf();
+    json file = json::parse(buffer.str());
+
+    fJson.close();
+
+    bool existingUser = false;
+    userNum = 0;
+    
+    for(auto user : file["users"]) {
+        if(username == file["users"][userNum]["user"].get<std::string>()) {
+            for(auto setting : file["users"][userNum]["userSettings"]){
+                printBool = file["users"][userNum]["userSettings"]["printState"].get<bool>();
+            }
+            existingUser = true;
+            break;
+        }
+        userNum++;
+    }
+
+    if(!existingUser) {
+
+        file["users"][userNum]["user"] = username;
+        file["users"][userNum]["userSettings"]["printState"] = false;
+
+        std::remove(filepath.c_str());
+        std::ofstream patchedJson(filepath.c_str());
+        patchedJson << std::setw(4) << file << std::endl;
+        patchedJson.close();
+
+    }
+}
+
 user_settings::~user_settings() {
 
 }
